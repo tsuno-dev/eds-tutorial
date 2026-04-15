@@ -26,6 +26,7 @@
     transition: transform .1s ease;
     content: '';
 }
+
 .accordion .item-title p {
     margin: 0;
 }
